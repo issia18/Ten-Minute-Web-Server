@@ -1,15 +1,13 @@
-# Ten-Minute-Web-Server
-It demonstrates setting up a Ten-Minute Web Server on AWS using an EC2 Ubuntu instance.
-Learning Objectives
+# Ten-Minute Web Server
 
-Understand the concept of full stack web development
+This repository contains a simple web server project built and deployed on AWS EC2. 
+It demonstrates deploying a simple Apache/PHP web server on an AWS EC2 instance.
 
-Work with curl, git, and apt commands
+## Demo Pages
+- [Hello HTML](http://18.219.193.122/hello.html)  
+- [Hello PHP](http://18.219.193.122/hello.php)
 
-Launch and configure an EC2 Ubuntu instance with SSH
-
-Install and configure a LAMP stack (Linux, Apache, MySQL, PHP)
-
-Deploy and test simple web applications on the server
-
-Review and analyze EC2 instance boot logs
+## Features
+- Launch and configure an EC2 Ubuntu server
+- Install Apache, PHP, and MySQL (LAMP stack)
+- Create and serve HTML and PHP test files
